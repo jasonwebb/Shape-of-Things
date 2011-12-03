@@ -1,1 +1,8 @@
-Trying to learn git here.
+"Shape of Things" was a student theater production at the University of Nebraska at Kearney which debutted over the weekend of Dec 2nd - Dec 5th 2011. This project is a collection of three Processing sketches that were used to create virtual set pieces using simple projection mapping on stage.
+
+Using Patrick Saint-Denis and Jean Piche's awesome mappingtools library (http://www.iact.umontreal.ca/mappingtools/), static images and a video were warped and then rear-projected using three projectors onto material placed on stage. 
+
+To avoid bothersome hot-spots from the projectors, the angles of the projectors to their respective screens was made to be as extreme as possible, resulting in very distorted imagery when used conventionally. These three Processing sketches allow stage hands to easily calibrate each of the three projector's imagery to match the physical screen with minimal effort.
+
+Used Processing version 1.5.1 from http://processing.org
+Used mappingtools version 0.0.3 from http://www.iact.umontreal.ca/mappingtools/
