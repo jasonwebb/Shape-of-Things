@@ -1,0 +1,3 @@
+
+SOT_1
+SOT_1.jar,core.jar,jogl.jar,gluegen-rt.jar,opengl.jar,mappingtools.jar,core.jar
